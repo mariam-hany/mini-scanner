@@ -1,0 +1,4 @@
+read,if,write,reserved words
+x,xyz,identifier
+4,number
+:=,assign
